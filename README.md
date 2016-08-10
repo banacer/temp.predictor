@@ -1,4 +1,4 @@
-# temppredictor
+# Indoor Temperature Estimation Using Outside Temperature and Class Schedules
 We predict the indoor temperature in a building by using the outdoor tempera-
 ture through one temperature sensor, which is located outside the building, an
 initial indoor temperature, and a normal distribution of students arrival to the
